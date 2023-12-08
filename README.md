@@ -30,7 +30,8 @@ and thoughts on candidates.
 ## Installations --> todo
 ```pip install openai``` 
 
-```pip install pandas```
+```pip install langchain```
 
 ## Running The Code
+Replace all areas with "insert-api-key" with your own Open AI API key before running the notebook.
 
