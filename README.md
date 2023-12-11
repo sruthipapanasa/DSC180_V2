@@ -33,5 +33,5 @@ and thoughts on candidates.
 ```pip install langchain```
 
 ## Running The Code
-Replace all areas with "insert-api-key" with your own Open AI API key before running the notebook.
+Replace all areas with "INSERT_API_KEY" with your own Open AI API key before running the notebook.
 
