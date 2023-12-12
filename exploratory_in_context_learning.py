@@ -1,7 +1,7 @@
 import openai
 import pandas as pd
 import regex as re
-openai.api_key = "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"
+openai.api_key = INSERT_API_KEY
 
 def chat_with_model(prompt):
     completion = openai.ChatCompletion.create(
